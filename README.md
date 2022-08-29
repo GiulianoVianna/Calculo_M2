@@ -1,4 +1,6 @@
-# Calculo_M2
+# Cálculo M2.
+
+## Desenvolvimento em HTML5, CSS, Bootstrap e Javascript.
 
 Cálculo do valor em M2 a ser cobrado pelo serviço ou material.
 
